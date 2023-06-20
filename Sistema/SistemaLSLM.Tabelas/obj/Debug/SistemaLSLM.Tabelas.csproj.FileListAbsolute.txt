@@ -1,0 +1,11 @@
+C:\Users\Técnico\Desktop\Sistema\SistemaLSLM.Tabelas\bin\Debug\SistemaLSLM.Tabelas.dll
+C:\Users\Técnico\Desktop\Sistema\SistemaLSLM.Tabelas\bin\Debug\SistemaLSLM.Tabelas.pdb
+C:\Users\Técnico\Desktop\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.csprojResolveAssemblyReference.cache
+C:\Users\Técnico\Desktop\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.dll
+C:\Users\Técnico\Desktop\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.pdb
+C:\Users\petry\Downloads\Sistema\SistemaLSLM.Tabelas\bin\Debug\SistemaLSLM.Tabelas.dll
+C:\Users\petry\Downloads\Sistema\SistemaLSLM.Tabelas\bin\Debug\SistemaLSLM.Tabelas.pdb
+C:\Users\petry\Downloads\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.csproj.AssemblyReference.cache
+C:\Users\petry\Downloads\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.csproj.CoreCompileInputs.cache
+C:\Users\petry\Downloads\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.dll
+C:\Users\petry\Downloads\Sistema\SistemaLSLM.Tabelas\obj\Debug\SistemaLSLM.Tabelas.pdb
